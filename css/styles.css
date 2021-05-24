@@ -1,0 +1,149 @@
+body {
+background-color: white;
+margin: 0px;
+text-align: center;
+font-family: 'Mate SC', serif;
+}
+
+h1 {
+margin:30px auto 30px auto;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 5em;
+}
+
+h2 {
+font-family: 'Kanit', sans-serif;
+font-size:2.5rem;
+color: #8785a2;
+margin:20px;}
+
+hr {
+color: #ffc7c7;
+border-style:dotted none none none;
+width:25%;
+border-width: 20px;
+margin: 20px auto 20px auto;}
+
+.title{
+color:#8785a2;
+line-height:2;}
+
+.skill-row {
+width: 50%;
+margin:50px auto 50px auto;
+text-align: left;
+line-height:1.5;}
+
+.keke{
+font-weight:normal}
+
+#mountain {
+position:relative;
+top:4px;}
+
+#Fuck {
+color: #8785a2;
+padding-bottom:0px;
+margin-bottom:5px;
+margin-top:0;
+font-weight: 100;}
+
+#clown {
+margin-bottom:0;
+padding:0;}
+
+.skillimage{
+height:25%;
+width:25%;}
+
+.climbing {
+float:right;
+margin-left:30px;
+padding-bottom:20px;
+}
+
+.code {
+float:left;
+margin-right:30px;
+}
+
+#clowner{clear:right;}
+#me {
+padding-top:20px;
+height:130px;
+width:100px;
+border-radius:50%;
+margin-bottom:0px;
+padding-bottom:0px;
+}
+
+.top {
+padding-top:50px;
+margin-bottom:0;
+background-color: #ffe2e2;
+position: relative;
+}
+
+.middle {
+
+}
+
+.bottom-container {
+background-color: #8785a2;
+padding:40px;
+}
+.copyright {
+margin-bottom:0;}
+
+.bottom-cloud {
+position: absolute;
+}
+.top-cloud {
+position: relative;
+left:100px ;}
+
+
+a {
+color:black;
+margin:10px;
+text-decoration:none;
+}
+a:hover{
+color:white;}
+
+.BUTTON_CEI {
+   background: #8785A8;
+   background-image: -webkit-linear-gradient(top, #8785A8, #8785A8);
+   background-image: -moz-linear-gradient(top, #8785A8, #8785A8);
+   background-image: -ms-linear-gradient(top, #8785A8, #8785A8);
+   background-image: -o-linear-gradient(top, #8785A8, #8785A8);
+   background-image: -webkit-gradient(to bottom, #8785A8, #8785A8);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Mate SC', serif;
+   font-size: 20px;
+   font-weight: 400;
+   padding: 5px;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom:80px;
+}
+
+.BUTTON_CEI:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
